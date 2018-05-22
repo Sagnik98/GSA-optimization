@@ -1,2 +1,2 @@
-** Various implementations of algorithms solving optimization problems **
+**Various implementations of algorithms solving optimization problems**
 							*- by @Sagnik98*

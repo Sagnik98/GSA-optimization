@@ -1,6 +1,5 @@
 **Implementation of Gravitational Search Algorithm**
-
-				- *by @Sagnik98*
+				     *-by @Sagnik98*
 
 A population based *heuristic* search algorithm  based on the gravity rules.
 The **Codes** are implemented in **GNU Octave**.
