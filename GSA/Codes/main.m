@@ -1,7 +1,7 @@
 
 min_sel =1;% all problems are minimization problems
 
-for f_sel= 1 : 23 % f_sel determines function to be chosen
+for f_sel= 17 % f_sel determines function to be chosen
 
 	%% setting population size and total iterations
 	
